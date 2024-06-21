@@ -2,7 +2,7 @@
 [license-shield]: https://img.shields.io/github/license/TurtleException/design
 
 <!--suppress CheckImageSize, HtmlRequiredAltAttribute -->
-<img align="right" src=".github/turtle-jump.gif" height="200" width="200">
+<img align="right" src=".github/turtle-jump.gif" height="100" width="100">
 
 [![license-shield][]][license]
 
