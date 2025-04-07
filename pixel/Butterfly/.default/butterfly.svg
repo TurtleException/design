@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+    <title>Butterfly</title>
+
+    <!-- upper wings -->
+    <path d="M2.5,5.0 h3 v1 h1 v1 h3 v-1 h1 v-1 h3 v3 h-1 v1 h-3 v1 h-3 v-1 h-3 v-1 h-1"
+          fill="rgb( 28,  99, 153)" />
+
+    <!-- lower wings -->
+    <path d="M4.5,9.0 h2 v1 h3 v-1 h2 v1 h1 v2 h-1 v1 h-2 v-1 h-3 v1 h-2 v-1 h-1 v-2 h1"
+          fill="rgb( 85, 172, 238)" />
+
+    <!-- body -->
+    <rect x="7.5" y="5" width="1" height="8"
+          fill="rgb(43, 43, 43)" />
+    <!-- head left -->
+    <path d="M5.5,3 h2 v2 h-1 v-1 h-1"
+          fill="rgb(43, 43, 43)" />
+    <!-- head right -->
+    <path d="M8.5,3 h2 v1 h-1 v1 h-1"
+          fill="rgb(43, 43, 43)" />
+</svg>
